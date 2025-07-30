@@ -1,0 +1,19 @@
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\bin\Debug\net8.0-windows\ShadowGlyph Format.exe
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\bin\Debug\net8.0-windows\ShadowGlyph Format.deps.json
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\bin\Debug\net8.0-windows\ShadowGlyph Format.runtimeconfig.json
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\bin\Debug\net8.0-windows\ShadowGlyph Format.dll
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\bin\Debug\net8.0-windows\ShadowGlyph Format.pdb
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.csproj.GenerateResource.cache
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.AssemblyInfoInputs.cache
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.AssemblyInfo.cs
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.csproj.CoreCompileInputs.cache
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.dll
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\refint\ShadowGlyph Format.dll
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.pdb
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.genruntimeconfig.cache
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ref\ShadowGlyph Format.dll
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph_Format.ShadowGlyph_Format_Main.resources
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph_Format.ImageViewerForm.resources
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.csproj.Fody.CopyLocal.cache
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\obj\Debug\net8.0-windows\ShadowGlyph Format.csproj.Fody.RuntimeCopyLocal.cache

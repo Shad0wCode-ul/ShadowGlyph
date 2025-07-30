@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowGlyph Format", "ShadowGlyph Format\ShadowGlyph Format.csproj", "{E94D29F7-3CD4-4B6D-85EF-E0B23844D50E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94D29F7-3CD4-4B6D-85EF-E0B23844D50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94D29F7-3CD4-4B6D-85EF-E0B23844D50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94D29F7-3CD4-4B6D-85EF-E0B23844D50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94D29F7-3CD4-4B6D-85EF-E0B23844D50E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578BDD2E-DF80-4CCA-A142-DDA5606D761E}
+	EndGlobalSection
+EndGlobal

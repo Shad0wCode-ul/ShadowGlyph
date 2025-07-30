@@ -1,0 +1,2 @@
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\bin\Release\net8.0-windows\win-x64\publish\ShadowGlyph Format.pdb
+D:\Visual Studio\SCIDE\ShadowGlyph Format\ShadowGlyph Format\bin\Release\net8.0-windows\win-x64\publish\ShadowGlyph Format.exe
